@@ -3,7 +3,7 @@
 Plugin Name: Open Mention Dream Tags as Block Patters
 Plugin URI: https://github.com/lordmatt/OpenMention.com-patterns-for-WordPress
 Description: Adds patterns for OpenMention dream logging and meta webmentions
-Version: 1.01
+Version: 1.02
 Author: Matt
 Author URI: https://openmentions.com/
 License: GPL2
@@ -44,7 +44,7 @@ function OT_OM_dreamlog_block_pattern() {
     );  
     
     register_block_pattern( 
-	'opentopic/dreamlog',
+	'opentopic/dreamloglong',
 	array(
 		'title'      => 'Add this one to the Dream Log',
 		'categories' => ['tags','text','webmention','dreams'],
