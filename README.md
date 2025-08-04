@@ -19,3 +19,11 @@ Anything that lets you publish text on the web with a link.
 You can manually ping most WebMention targets. OpenMention is no exception - copy the post URL, click the link, use the ping form.
 
 A far better way is to just use the [WebMention plugin](https://wordpress.org/plugins/webmention/).
+
+## What have you got?
+
+* Health - tags about health
+* WordPress Dev - tags for blogging about WordPress Dev
+* Blogging topics - prompts and questions for journaling and blogging (various sites)
+* DreamLog - for logging your dreams
+* Writers - a whole bunch of open topics writers might like to use
