@@ -1,4 +1,4 @@
-# OpenMention.com-patterns-for-WordPress
+# OpenMentions.com-patterns-for-WordPress
 A collection of simple plugins that add patterns for WebMention for use with OpenTopic sites like [OpenMentions.com](https://openmentions.com).
 
 ## How to use
